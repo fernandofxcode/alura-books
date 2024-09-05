@@ -1,4 +1,5 @@
 import Header from './componentes/header';
+import Pesquisa from './componentes/Pesquisa';
 import styled from 'styled-components';
 
 // Este AppContainer foi criado em substituiçao ao arquivo App.css
@@ -12,6 +13,7 @@ function App() {
   return (
     <AppContainer>
       <Header/>
+      <Pesquisa />
     </AppContainer>
   );
 }
