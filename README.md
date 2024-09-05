@@ -1,7 +1,7 @@
 # alura-books
  Projeto desenvolvido durante um curso da Alura
  
- .......................................
+ ..............................................
 
  # Getting Started with Create React App
 
