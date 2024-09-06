@@ -1,6 +1,6 @@
-import Logo from '../logo';
-import OpcoesHeader from '../opcoesHeader';
-import IconesHeader from '../iconesHeader';
+import Logo from '../Logo';
+import OpcoesHeader from '../OpcoesHeader';
+import IconesHeader from '../IconesHeader';
 import styled from 'styled-components';
 
 const HeaderContainer = styled.header`
